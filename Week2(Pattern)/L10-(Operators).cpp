@@ -18,22 +18,22 @@ int main()
 {
     int a = 10;
 
-    post increment
+    //post increment
 
     cout<<a++;
     cout<<endl<<a;
 
-    pre increment
+    //pre increment
 
     cout<<++a;
     cout<<endl<<a;
 
-    post decrement
+   // post decrement
 
     cout<<a--;
     cout<<endl<<a;
 
-    pre decrement
+    //pre decrement
 
     cout<<--a;
     cout<<endl<<a;
@@ -133,16 +133,16 @@ int main()
 int main()
 {
     //& operator
-    // int ans = 2&3;
-    // cout<<ans<<endl;
+    int ans = 2&3;
+    cout<<ans<<endl;
 
     //| operator
-    // int ans = 2|3;
-    // cout<<ans<<endl;
+    int ans = 2|3;
+    cout<<ans<<endl;
 
     //xor (^) opertor
-    // int ans = 2^3;
-    // cout<<ans<<endl;
+    int ans = 2^3;
+    cout<<ans<<endl;
 }
 
 
