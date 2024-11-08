@@ -1,0 +1,1 @@
+char name = 'A'+col-1;
